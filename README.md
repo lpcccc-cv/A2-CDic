@@ -4,7 +4,7 @@ Robust Deep Convolutional Dictionary Model with Alignment Assistance for Multi-C
 ### Authors: Pengcheng Lei, Miaomiao Zhang, Faming Fang, and Guixu Zhang
 
 ### Environment and dataset preparation
-Please refer to [MC-VarNet](https://github.com/lpcccc-cv/MC-VarNet) and [MC-DuDoN](https://github.com/lpcccc-cv/MC-DuDoN)  to prepare the dataset.
+Please refer to [MC-VarNet](https://github.com/lpcccc-cv/MC-VarNet) and [MC-DuDoNet](https://github.com/lpcccc-cv/MC-DuDoNet)  to prepare the dataset.
 To generate spatially misaligned dataset, please run
 ```bash
 python data/image_transformation.py
